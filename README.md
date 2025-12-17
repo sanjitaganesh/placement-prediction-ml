@@ -42,7 +42,7 @@ The target variable is:
 
 ## Results and Observations
 
-- The model achieved an accuracy of approximately **XX%** on the test dataset  
+- The model achieved an accuracy of approximately **79.45%** on the test dataset  
 - Students with higher CGPA show a higher likelihood of being placed  
 - EDA plots are saved in the **`eda_plots/`** directory for reference
 
